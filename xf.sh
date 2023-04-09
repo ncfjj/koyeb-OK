@@ -1,7 +1,7 @@
 #!/bin/sh
 ##
 
-UUID=6b061eed-5368-458b-8260-0dbac44cea3b
+UUID=ed595a66-a31f-2cda-00ff-26763c2e491f
 
 # Set ARG
 ARCH="64"
